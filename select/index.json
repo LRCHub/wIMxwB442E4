@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ロケットサイダー",
+  "base_artist": "ナユタン星人",
+  "createdAt": "2025-12-04T06:57:53.681776Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ロケットサイダー",
+      "artist": "Sou",
+      "has_synced": false,
+      "path": "select/01_ロケットサイダー_Sou.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ロケットサイダー",
+      "artist": "Nayutalien",
+      "has_synced": true,
+      "path": "select/02_ロケットサイダー_Nayutalien.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ロケットサイダー",
+      "artist": "ナユタン星人",
+      "has_synced": true,
+      "path": "select/03_ロケットサイダー_ナユタン星人.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ロケットサイダー",
+      "artist": "Nayutalien",
+      "has_synced": true,
+      "path": "select/04_ロケットサイダー_Nayutalien.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ロケットサイダー",
+      "artist": "ナユタン星人×Sou",
+      "has_synced": true,
+      "path": "select/05_ロケットサイダー_ナユタン星人×Sou.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ロケットサイダー",
+      "artist": "NayutalieN (ナユタン星人)",
+      "has_synced": true,
+      "path": "select/06_ロケットサイダー_NayutalieN_(ナユタン星人).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロケットサイダー",
+      "artist": "ナユタン星人",
+      "has_synced": false,
+      "path": "select/pl_01_ロケットサイダー_ナユタン星人.txt"
+    }
+  ]
+}
